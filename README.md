@@ -11,7 +11,7 @@ E-Commerce Unhas Merupakan sebuah website penjualan yang menyediakan layanan pem
 
 ## Our Teams
 
-- [Avil Mahrin](https://laravel.com/docs/routing) sebagai Back End + UI/UX
-- [Kisana Adzan Sitorus](https://laravel.com/docs/container) sebagai UI/UX
-- [Dimas Permana](https://laravel.com/docs/container) sebagai Front End
-- [Dewa Yoga Pratama](https://laravel.com/docs/container) sebagai Back End
+- [Avil Mahrin](#) sebagai Back End + UI/UX
+- [Kisana Adzan Sitorus](#) sebagai UI/UX
+- [Dimas Permana](#) sebagai Front End
+- [Dewa Yoga Pratama](#) sebagai Back End
